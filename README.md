@@ -24,4 +24,5 @@ In 2000, Enron was one of the largest companies in the United States. By 2002, i
 * poi_email_addresses.py  
 * poi_id.py  
 * tester.py  
+* poi_names.txt  
 
