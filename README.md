@@ -17,7 +17,7 @@ In 2000, Enron was one of the largest companies in the United States. By 2002, i
   
   
   
-**Udacity Supporting Files**
+**Udacity Starter Files**
 
 * final_project_dataset_modified.pkl  
 * final_project_dataset.pkl  
