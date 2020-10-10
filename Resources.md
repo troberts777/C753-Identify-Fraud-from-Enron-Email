@@ -2,6 +2,7 @@
 
 
 From the Udacity course Intro to Machine Learning:  
+  
 https://github.com/udacity/ud120-projects  
 
 From Sklearn:  
