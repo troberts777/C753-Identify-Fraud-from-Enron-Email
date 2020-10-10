@@ -14,16 +14,14 @@ In 2000, Enron was one of the largest companies in the United States. By 2002, i
 * my_dataset.pkl  
 * my_classifier.pkl  
 * my_feature_list.pkl  
+* poi_id.py
   
   
   
 **Udacity Supporting Files**
 
 * final_project_dataset_modified.pkl  
-* final_project_dataset.pkl  
-* poi_email_addresses.py  
-* poi_id.py  
-* tester.py  
-* poi_names.txt  
+* final_project_dataset.pkl   
+* tester.py   
 * enron61702insiderpay.pdf  
 
