@@ -15,7 +15,8 @@ In 2000, Enron was one of the largest companies in the United States. By 2002, i
 * my_classifier.pkl  
 * my_feature_list.pkl  
 * poi_id.py
-  
+* Project Questions.html  
+* Project Questions.pdf  
   
   
 **Udacity Supporting Files**
