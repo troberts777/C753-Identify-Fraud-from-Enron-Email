@@ -17,7 +17,8 @@ In 2000, Enron was one of the largest companies in the United States. By 2002, i
 * poi_id.py
 * Project Questions.ipynb  
 * Project Questions.html  
-* Project Questions.pdf  
+* Project Questions.pdf
+* Resources.md  
   
   
 **Udacity Supporting Files**
