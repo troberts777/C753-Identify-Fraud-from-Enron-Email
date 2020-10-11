@@ -11,7 +11,7 @@ In 2000, Enron was one of the largest companies in the United States. By 2002, i
 
 **Files**
 
-* C753 Final Project-Final.ipynb  
+* C753 Final Project.ipynb  
 * my_dataset.pkl  
 * my_classifier.pkl  
 * my_feature_list.pkl  
